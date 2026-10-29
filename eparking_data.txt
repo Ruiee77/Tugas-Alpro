@@ -1,0 +1,4 @@
+AKUN|rafimajduddinakmal|Rafi Majduddin Akmal|433322345|parkir345|28-10-2026 16:07:14
+AKUN|gunawanhendra|gunawan hendra|43225829403|parkir403|28-10-2026 22:13:37
+RIWAYAT|28-10-2026 16:08:12|Rafi Majduddin Akmal|H1433KA|Motor|17|Ya|18000|20000|5400|32600|35000|2400
+RIWAYAT|28-10-2026 22:14:25|gunawan hendra|H3920P|Mobil|7|Tidak|16000|0|0|16000|20000|4000
